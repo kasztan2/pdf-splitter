@@ -1,0 +1,1 @@
+from pdf_splitter.main import split_pdf
